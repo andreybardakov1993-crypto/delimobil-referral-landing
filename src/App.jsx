@@ -111,4 +111,3 @@ export default function App() {
     </div>
   );
 }
-feat: mobile-first responsive UI}
