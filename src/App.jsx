@@ -67,4 +67,4 @@ export default function App() {
       </footer>
     </div>
   )
-}
+feat: mobile-first responsive UI}
